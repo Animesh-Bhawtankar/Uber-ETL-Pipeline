@@ -1,4 +1,4 @@
-# Uber Data Analytics | Modern Data Engineering GCP Project
+# Uber Data Insights | Modern Data Engineering Google Cloud Project
 
 ## Introduction
 
